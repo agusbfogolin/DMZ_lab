@@ -35,11 +35,11 @@ dmz-lab/
 │   └── Informe_DMZ_Laboratorio.md
 └── evidencias/
     ├── topologia.png
-    ├── running_config.png
-    ├── show_acl_nat.png
+    ├── config.png
+    ├── show acl nat.png
     ├── pings.png
-    ├── web_browsers.png
-    └── check_results.png
+    ├── web browsers.png
+    └── check results.png
 ```
 
 ---
