@@ -34,7 +34,6 @@ dmz-lab/
 ├── informe/
 │   └── Informe_DMZ_Laboratorio.md
 └── evidencias/
-    ├── topologia.png
     ├── config.png
     ├── show acl nat.png
     ├── pings.png
